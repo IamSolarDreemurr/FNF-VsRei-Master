@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rei_menuassets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rei Idle0000" x="0" y="0" width="350" height="667" frameX="0" frameY="-28" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0001" x="0" y="0" width="350" height="667" frameX="0" frameY="-28" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0002" x="350" y="0" width="344" height="678" frameX="-12" frameY="-17" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0003" x="350" y="0" width="344" height="678" frameX="-12" frameY="-17" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0004" x="694" y="0" width="337" height="688" frameX="-13" frameY="-8" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0005" x="694" y="0" width="337" height="688" frameX="-13" frameY="-8" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0006" x="1031" y="0" width="332" height="691" frameX="-13" frameY="-5" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0007" x="1031" y="0" width="332" height="691" frameX="-13" frameY="-5" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0008" x="1363" y="0" width="339" height="696" frameX="-6" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0009" x="1363" y="0" width="339" height="696" frameX="-6" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0010" x="1363" y="0" width="339" height="696" frameX="-6" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0011" x="1363" y="0" width="339" height="696" frameX="-6" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0012" x="1363" y="0" width="339" height="696" frameX="-6" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0013" x="1363" y="0" width="339" height="696" frameX="-6" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0014" x="0" y="696" width="350" height="663" frameX="-5" frameY="-32" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0015" x="0" y="696" width="350" height="663" frameX="-5" frameY="-32" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0016" x="350" y="696" width="339" height="670" frameX="-12" frameY="-25" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0017" x="350" y="696" width="339" height="670" frameX="-12" frameY="-25" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0018" x="689" y="696" width="329" height="688" frameX="-13" frameY="-8" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0019" x="689" y="696" width="329" height="688" frameX="-13" frameY="-8" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0020" x="1018" y="696" width="334" height="691" frameX="-8" frameY="-5" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0021" x="1018" y="696" width="334" height="691" frameX="-8" frameY="-5" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0022" x="1352" y="696" width="342" height="696" frameX="0" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0023" x="1352" y="696" width="342" height="696" frameX="0" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0024" x="1352" y="696" width="342" height="696" frameX="0" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0025" x="1352" y="696" width="342" height="696" frameX="0" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0026" x="1352" y="696" width="342" height="696" frameX="0" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0027" x="1352" y="696" width="342" height="696" frameX="0" frameY="0" frameWidth="356" frameHeight="696"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bgbop1.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG Group Bop 10000" x="0" y="0" width="884" height="583" frameX="0" frameY="-15" frameWidth="884" frameHeight="599"/>
+	<SubTexture name="BG Group Bop 10001" x="0" y="0" width="884" height="583" frameX="0" frameY="-15" frameWidth="884" frameHeight="599"/>
+	<SubTexture name="BG Group Bop 10002" x="884" y="0" width="871" height="593" frameX="-5" frameY="-6" frameWidth="884" frameHeight="599"/>
+	<SubTexture name="BG Group Bop 10003" x="884" y="0" width="871" height="593" frameX="-5" frameY="-6" frameWidth="884" frameHeight="599"/>
+	<SubTexture name="BG Group Bop 10004" x="0" y="593" width="862" height="599" frameX="-11" frameY="0" frameWidth="884" frameHeight="599"/>
+	<SubTexture name="BG Group Bop 10005" x="0" y="593" width="862" height="599" frameX="-11" frameY="0" frameWidth="884" frameHeight="599"/>
+	<SubTexture name="BG Group Bop 10006" x="0" y="593" width="862" height="599" frameX="-11" frameY="0" frameWidth="884" frameHeight="599"/>
+	<SubTexture name="BG Group Bop 10007" x="0" y="593" width="862" height="599" frameX="-11" frameY="0" frameWidth="884" frameHeight="599"/>
+	<SubTexture name="BG Group Bop 10008" x="0" y="593" width="862" height="599" frameX="-11" frameY="0" frameWidth="884" frameHeight="599"/>
+	<SubTexture name="BG Group Bop 10009" x="0" y="593" width="862" height="599" frameX="-11" frameY="0" frameWidth="884" frameHeight="599"/>
+	<SubTexture name="BG Group Bop 10010" x="0" y="593" width="862" height="599" frameX="-11" frameY="0" frameWidth="884" frameHeight="599"/>
+	<SubTexture name="BG Group Bop 10011" x="0" y="593" width="862" height="599" frameX="-11" frameY="0" frameWidth="884" frameHeight="599"/>
+	<SubTexture name="BG Group Bop 10012" x="0" y="593" width="862" height="599" frameX="-11" frameY="0" frameWidth="884" frameHeight="599"/>
+	<SubTexture name="BG Group Bop 10013" x="0" y="593" width="862" height="599" frameX="-11" frameY="0" frameWidth="884" frameHeight="599"/>
+</TextureAtlas>

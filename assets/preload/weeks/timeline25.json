@@ -1,0 +1,40 @@
+{
+	"storyName": "In Another Timeline...",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "mountain",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"rei",
+		"bfrei",
+		"gfrei"
+	],
+	"songs": [
+		[
+			"Horizon",
+			"rei",
+			[
+				255,
+				180,
+				135
+			]
+		],
+		[
+			"Surface",
+			"rei",
+			[
+				255,
+				180,
+				135
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "In Another Timeline..."
+}

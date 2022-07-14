@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Rei Idle",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		90,
+		169
+	],
+	"scale": 0.5,
+	"flipX": false,
+	"image": "Menu_Rei"
+}

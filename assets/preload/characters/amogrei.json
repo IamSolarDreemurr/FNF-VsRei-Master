@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AmogRei Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				250,
+				-240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "AmogRei Left"
+		},
+		{
+			"offsets": [
+				128,
+				-240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "AmogRei Right"
+		},
+		{
+			"offsets": [
+				131,
+				-135
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "AmogRei Up"
+		},
+		{
+			"offsets": [
+				90,
+				-360
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "AmogRei Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AmogRei_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "amogrei",
+	"flip_x": false,
+	"healthbar_colors": [
+		210,
+		234,
+		235
+	],
+	"camera_position": [
+		0,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

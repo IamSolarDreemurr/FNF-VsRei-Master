@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rei_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rei Attack0000" x="0" y="0" width="731" height="800" frameX="-98" frameY="-191" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Attack0001" x="731" y="0" width="719" height="991" frameX="-195" frameY="0" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Attack0002" x="1450" y="0" width="952" height="639" frameX="-13" frameY="-352" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Attack0003" x="2402" y="0" width="655" height="565" frameX="0" frameY="-426" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Attack0004" x="2402" y="0" width="655" height="565" frameX="0" frameY="-426" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Attack0005" x="2402" y="0" width="655" height="565" frameX="0" frameY="-426" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Attack0006" x="2402" y="0" width="655" height="565" frameX="0" frameY="-426" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Attack0007" x="2402" y="0" width="655" height="565" frameX="0" frameY="-426" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Attack0008" x="2402" y="0" width="655" height="565" frameX="0" frameY="-426" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Attack0009" x="2402" y="0" width="655" height="565" frameX="0" frameY="-426" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Attack0010" x="2402" y="0" width="655" height="565" frameX="0" frameY="-426" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Attack0011" x="2402" y="0" width="655" height="565" frameX="0" frameY="-426" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Attack0012" x="2402" y="0" width="655" height="565" frameX="0" frameY="-426" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Attack0013" x="2402" y="0" width="655" height="565" frameX="0" frameY="-426" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Attack0014" x="2402" y="0" width="655" height="565" frameX="0" frameY="-426" frameWidth="965" frameHeight="991"/>
+	<SubTexture name="Rei Idle0000" x="3057" y="0" width="350" height="667" frameX="0" frameY="-28" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0001" x="3057" y="0" width="350" height="667" frameX="0" frameY="-28" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0002" x="3407" y="0" width="344" height="678" frameX="-12" frameY="-17" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0003" x="3407" y="0" width="344" height="678" frameX="-12" frameY="-17" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0004" x="3751" y="0" width="337" height="688" frameX="-13" frameY="-8" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0005" x="3751" y="0" width="337" height="688" frameX="-13" frameY="-8" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0006" x="0" y="991" width="332" height="691" frameX="-13" frameY="-5" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0007" x="0" y="991" width="332" height="691" frameX="-13" frameY="-5" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0008" x="332" y="991" width="339" height="696" frameX="-6" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0009" x="332" y="991" width="339" height="696" frameX="-6" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0010" x="332" y="991" width="339" height="696" frameX="-6" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0011" x="332" y="991" width="339" height="696" frameX="-6" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0012" x="332" y="991" width="339" height="696" frameX="-6" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0013" x="332" y="991" width="339" height="696" frameX="-6" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0014" x="671" y="991" width="350" height="663" frameX="-5" frameY="-32" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0015" x="671" y="991" width="350" height="663" frameX="-5" frameY="-32" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0016" x="1021" y="991" width="339" height="670" frameX="-12" frameY="-25" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0017" x="1021" y="991" width="339" height="670" frameX="-12" frameY="-25" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0018" x="1360" y="991" width="329" height="688" frameX="-13" frameY="-8" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0019" x="1360" y="991" width="329" height="688" frameX="-13" frameY="-8" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0020" x="1689" y="991" width="334" height="691" frameX="-8" frameY="-5" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0021" x="1689" y="991" width="334" height="691" frameX="-8" frameY="-5" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0022" x="2023" y="991" width="342" height="696" frameX="0" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0023" x="2023" y="991" width="342" height="696" frameX="0" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0024" x="2023" y="991" width="342" height="696" frameX="0" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0025" x="2023" y="991" width="342" height="696" frameX="0" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0026" x="2023" y="991" width="342" height="696" frameX="0" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Idle0027" x="2023" y="991" width="342" height="696" frameX="0" frameY="0" frameWidth="356" frameHeight="696"/>
+	<SubTexture name="Rei Lets go0000" x="2365" y="991" width="345" height="691"/>
+	<SubTexture name="Rei Lets go0001" x="2365" y="991" width="345" height="691"/>
+	<SubTexture name="Rei Lets go0002" x="2710" y="991" width="342" height="682" frameX="-3" frameY="-9" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0003" x="3052" y="991" width="342" height="682" frameX="-3" frameY="-9" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0004" x="3394" y="991" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0005" x="3394" y="991" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0006" x="3739" y="991" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0007" x="0" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0008" x="345" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0009" x="345" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0010" x="690" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0011" x="690" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0012" x="1035" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0013" x="1035" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0014" x="1380" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0015" x="1380" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0016" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0017" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0018" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0019" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0020" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0021" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0022" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0023" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0024" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0025" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0026" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0027" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0028" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0029" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0030" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Lets go0031" x="1725" y="1687" width="345" height="679" frameX="0" frameY="-12" frameWidth="345" frameHeight="691"/>
+	<SubTexture name="Rei Sing Down0000" x="2070" y="1687" width="408" height="504" frameX="0" frameY="-18" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Down0001" x="2070" y="1687" width="408" height="504" frameX="0" frameY="-18" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Down0002" x="2478" y="1687" width="398" height="513" frameX="-4" frameY="-9" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Down0003" x="2478" y="1687" width="398" height="513" frameX="-4" frameY="-9" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Down0004" x="2876" y="1687" width="392" height="522" frameX="-4" frameY="0" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Down0005" x="2876" y="1687" width="392" height="522" frameX="-4" frameY="0" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Down0006" x="3268" y="1687" width="392" height="522" frameX="-4" frameY="0" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Down0007" x="3268" y="1687" width="392" height="522" frameX="-4" frameY="0" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Down0008" x="3268" y="1687" width="392" height="522" frameX="-4" frameY="0" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Down0009" x="3268" y="1687" width="392" height="522" frameX="-4" frameY="0" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Down0010" x="3268" y="1687" width="392" height="522" frameX="-4" frameY="0" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Down0011" x="3268" y="1687" width="392" height="522" frameX="-4" frameY="0" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Down0012" x="3268" y="1687" width="392" height="522" frameX="-4" frameY="0" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Down0013" x="3268" y="1687" width="392" height="522" frameX="-4" frameY="0" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Down0014" x="3268" y="1687" width="392" height="522" frameX="-4" frameY="0" frameWidth="408" frameHeight="522"/>
+	<SubTexture name="Rei Sing Left0000" x="3660" y="1687" width="318" height="693" frameX="0" frameY="-6" frameWidth="319" frameHeight="699"/>
+	<SubTexture name="Rei Sing Left0001" x="3660" y="1687" width="318" height="693" frameX="0" frameY="-6" frameWidth="319" frameHeight="699"/>
+	<SubTexture name="Rei Sing Left0002" x="0" y="2380" width="318" height="697" frameX="0" frameY="-2" frameWidth="319" frameHeight="699"/>
+	<SubTexture name="Rei Sing Left0003" x="0" y="2380" width="318" height="697" frameX="0" frameY="-2" frameWidth="319" frameHeight="699"/>
+	<SubTexture name="Rei Sing Left0004" x="318" y="2380" width="319" height="699"/>
+	<SubTexture name="Rei Sing Left0005" x="318" y="2380" width="319" height="699"/>
+	<SubTexture name="Rei Sing Left0006" x="637" y="2380" width="319" height="699"/>
+	<SubTexture name="Rei Sing Left0007" x="637" y="2380" width="319" height="699"/>
+	<SubTexture name="Rei Sing Left0008" x="637" y="2380" width="319" height="699"/>
+	<SubTexture name="Rei Sing Left0009" x="637" y="2380" width="319" height="699"/>
+	<SubTexture name="Rei Sing Left0010" x="637" y="2380" width="319" height="699"/>
+	<SubTexture name="Rei Sing Left0011" x="637" y="2380" width="319" height="699"/>
+	<SubTexture name="Rei Sing Left0012" x="637" y="2380" width="319" height="699"/>
+	<SubTexture name="Rei Sing Left0013" x="637" y="2380" width="319" height="699"/>
+	<SubTexture name="Rei Sing Left0014" x="637" y="2380" width="319" height="699"/>
+	<SubTexture name="Rei Sing Right0000" x="956" y="2380" width="495" height="706" frameX="-1" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Right0001" x="956" y="2380" width="495" height="706" frameX="-1" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Right0002" x="1451" y="2380" width="494" height="706" frameX="-1" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Right0003" x="1451" y="2380" width="494" height="706" frameX="-1" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Right0004" x="1945" y="2380" width="495" height="706" frameX="0" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Right0005" x="1945" y="2380" width="495" height="706" frameX="0" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Right0006" x="2440" y="2380" width="495" height="706" frameX="0" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Right0007" x="2440" y="2380" width="495" height="706" frameX="0" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Right0008" x="2440" y="2380" width="495" height="706" frameX="0" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Right0009" x="2440" y="2380" width="495" height="706" frameX="0" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Right0010" x="2440" y="2380" width="495" height="706" frameX="0" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Right0011" x="2440" y="2380" width="495" height="706" frameX="0" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Right0012" x="2440" y="2380" width="495" height="706" frameX="0" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Right0013" x="2440" y="2380" width="495" height="706" frameX="0" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Right0014" x="2440" y="2380" width="495" height="706" frameX="0" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="Rei Sing Up0000" x="2935" y="2380" width="355" height="719" frameX="0" frameY="0" frameWidth="363" frameHeight="719"/>
+	<SubTexture name="Rei Sing Up0001" x="2935" y="2380" width="355" height="719" frameX="0" frameY="0" frameWidth="363" frameHeight="719"/>
+	<SubTexture name="Rei Sing Up0002" x="3290" y="2380" width="349" height="702" frameX="-12" frameY="-17" frameWidth="363" frameHeight="719"/>
+	<SubTexture name="Rei Sing Up0003" x="3290" y="2380" width="349" height="702" frameX="-12" frameY="-17" frameWidth="363" frameHeight="719"/>
+	<SubTexture name="Rei Sing Up0004" x="3639" y="2380" width="351" height="695" frameX="-12" frameY="-23" frameWidth="363" frameHeight="719"/>
+	<SubTexture name="Rei Sing Up0005" x="3639" y="2380" width="351" height="695" frameX="-12" frameY="-23" frameWidth="363" frameHeight="719"/>
+	<SubTexture name="Rei Sing Up0006" x="0" y="3099" width="351" height="695" frameX="-12" frameY="-23" frameWidth="363" frameHeight="719"/>
+	<SubTexture name="Rei Sing Up0007" x="0" y="3099" width="351" height="695" frameX="-12" frameY="-23" frameWidth="363" frameHeight="719"/>
+	<SubTexture name="Rei Sing Up0008" x="0" y="3099" width="351" height="695" frameX="-12" frameY="-23" frameWidth="363" frameHeight="719"/>
+	<SubTexture name="Rei Sing Up0009" x="0" y="3099" width="351" height="695" frameX="-12" frameY="-23" frameWidth="363" frameHeight="719"/>
+	<SubTexture name="Rei Sing Up0010" x="0" y="3099" width="351" height="695" frameX="-12" frameY="-23" frameWidth="363" frameHeight="719"/>
+	<SubTexture name="Rei Sing Up0011" x="0" y="3099" width="351" height="695" frameX="-12" frameY="-23" frameWidth="363" frameHeight="719"/>
+	<SubTexture name="Rei Sing Up0012" x="0" y="3099" width="351" height="695" frameX="-12" frameY="-23" frameWidth="363" frameHeight="719"/>
+	<SubTexture name="Rei Sing Up0013" x="0" y="3099" width="351" height="695" frameX="-12" frameY="-23" frameWidth="363" frameHeight="719"/>
+	<SubTexture name="Rei Sing Up0014" x="0" y="3099" width="351" height="695" frameX="-12" frameY="-23" frameWidth="363" frameHeight="719"/>
+</TextureAtlas>

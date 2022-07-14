@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": null,
+		"player1": "bf_rei",
+		"player2": "rei",
+		"player3": null,
+		"events": [
+			[
+				20869.5652173913,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0"
+					]
+				]
+			],
+			[
+				138847.826086957,
+				[
+					[
+						"Play Animation",
+						"Let's go",
+						"Dad"
+					]
+				]
+			],
+			[
+				139565.217391305,
+				[
+					[
+						"Hey!",
+						"Both",
+						"0.3"
+					]
+				]
+			],
+			[
+				173217.391304348,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_rei",
+		"bpm": 115,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Expurgreition"
+	}
+}

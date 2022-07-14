@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DarkRei_ss.flay8as7f.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fleet down0000" x="0" y="0" width="327" height="455" frameX="0" frameY="-17" frameWidth="333" frameHeight="472"/>
+	<SubTexture name="Fleet down0001" x="0" y="0" width="327" height="455" frameX="0" frameY="-17" frameWidth="333" frameHeight="472"/>
+	<SubTexture name="Fleet down0002" x="327" y="0" width="330" height="463" frameX="-2" frameY="-8" frameWidth="333" frameHeight="472"/>
+	<SubTexture name="Fleet down0003" x="327" y="0" width="330" height="463" frameX="-2" frameY="-8" frameWidth="333" frameHeight="472"/>
+	<SubTexture name="Fleet down0004" x="657" y="0" width="331" height="469" frameX="-2" frameY="-3" frameWidth="333" frameHeight="472"/>
+	<SubTexture name="Fleet down0005" x="657" y="0" width="331" height="469" frameX="-2" frameY="-3" frameWidth="333" frameHeight="472"/>
+	<SubTexture name="Fleet down0006" x="988" y="0" width="331" height="471" frameX="-2" frameY="0" frameWidth="333" frameHeight="472"/>
+	<SubTexture name="Fleet down0007" x="988" y="0" width="331" height="471" frameX="-2" frameY="0" frameWidth="333" frameHeight="472"/>
+	<SubTexture name="Fleet down0008" x="988" y="0" width="331" height="471" frameX="-2" frameY="0" frameWidth="333" frameHeight="472"/>
+	<SubTexture name="Fleet down0009" x="988" y="0" width="331" height="471" frameX="-2" frameY="0" frameWidth="333" frameHeight="472"/>
+	<SubTexture name="Fleet down0010" x="988" y="0" width="331" height="471" frameX="-2" frameY="0" frameWidth="333" frameHeight="472"/>
+	<SubTexture name="Fleet down0011" x="988" y="0" width="331" height="471" frameX="-2" frameY="0" frameWidth="333" frameHeight="472"/>
+	<SubTexture name="Fleet down0012" x="988" y="0" width="331" height="471" frameX="-2" frameY="0" frameWidth="333" frameHeight="472"/>
+	<SubTexture name="Fleet down0013" x="988" y="0" width="331" height="471" frameX="-2" frameY="0" frameWidth="333" frameHeight="472"/>
+	<SubTexture name="Fleet left0000" x="1319" y="0" width="327" height="502" frameX="0" frameY="-1" frameWidth="332" frameHeight="503"/>
+	<SubTexture name="Fleet left0001" x="1319" y="0" width="327" height="502" frameX="0" frameY="-1" frameWidth="332" frameHeight="503"/>
+	<SubTexture name="Fleet left0002" x="1646" y="0" width="322" height="503" frameX="-6" frameY="0" frameWidth="332" frameHeight="503"/>
+	<SubTexture name="Fleet left0003" x="1646" y="0" width="322" height="503" frameX="-6" frameY="0" frameWidth="332" frameHeight="503"/>
+	<SubTexture name="Fleet left0004" x="1968" y="0" width="320" height="503" frameX="-10" frameY="0" frameWidth="332" frameHeight="503"/>
+	<SubTexture name="Fleet left0005" x="1968" y="0" width="320" height="503" frameX="-10" frameY="0" frameWidth="332" frameHeight="503"/>
+	<SubTexture name="Fleet left0006" x="2288" y="0" width="320" height="503" frameX="-12" frameY="0" frameWidth="332" frameHeight="503"/>
+	<SubTexture name="Fleet left0007" x="2288" y="0" width="320" height="503" frameX="-12" frameY="0" frameWidth="332" frameHeight="503"/>
+	<SubTexture name="Fleet left0008" x="2288" y="0" width="320" height="503" frameX="-12" frameY="0" frameWidth="332" frameHeight="503"/>
+	<SubTexture name="Fleet left0009" x="2288" y="0" width="320" height="503" frameX="-12" frameY="0" frameWidth="332" frameHeight="503"/>
+	<SubTexture name="Fleet left0010" x="2288" y="0" width="320" height="503" frameX="-12" frameY="0" frameWidth="332" frameHeight="503"/>
+	<SubTexture name="Fleet left0011" x="2288" y="0" width="320" height="503" frameX="-12" frameY="0" frameWidth="332" frameHeight="503"/>
+	<SubTexture name="Fleet left0012" x="2288" y="0" width="320" height="503" frameX="-12" frameY="0" frameWidth="332" frameHeight="503"/>
+	<SubTexture name="Fleet left0013" x="2288" y="0" width="320" height="503" frameX="-12" frameY="0" frameWidth="332" frameHeight="503"/>
+	<SubTexture name="Fleet right0000" x="2608" y="0" width="347" height="481" frameX="-1" frameY="-2" frameWidth="348" frameHeight="483"/>
+	<SubTexture name="Fleet right0001" x="2608" y="0" width="347" height="481" frameX="-1" frameY="-2" frameWidth="348" frameHeight="483"/>
+	<SubTexture name="Fleet right0002" x="2955" y="0" width="345" height="481" frameX="-1" frameY="-2" frameWidth="348" frameHeight="483"/>
+	<SubTexture name="Fleet right0003" x="2955" y="0" width="345" height="481" frameX="-1" frameY="-2" frameWidth="348" frameHeight="483"/>
+	<SubTexture name="Fleet right0004" x="3300" y="0" width="344" height="482" frameX="0" frameY="-1" frameWidth="348" frameHeight="483"/>
+	<SubTexture name="Fleet right0005" x="3300" y="0" width="344" height="482" frameX="0" frameY="-1" frameWidth="348" frameHeight="483"/>
+	<SubTexture name="Fleet right0006" x="3644" y="0" width="342" height="483" frameX="0" frameY="0" frameWidth="348" frameHeight="483"/>
+	<SubTexture name="Fleet right0007" x="3644" y="0" width="342" height="483" frameX="0" frameY="0" frameWidth="348" frameHeight="483"/>
+	<SubTexture name="Fleet right0008" x="3986" y="0" width="342" height="483" frameX="0" frameY="0" frameWidth="348" frameHeight="483"/>
+	<SubTexture name="Fleet right0009" x="3986" y="0" width="342" height="483" frameX="0" frameY="0" frameWidth="348" frameHeight="483"/>
+	<SubTexture name="Fleet right0010" x="3986" y="0" width="342" height="483" frameX="0" frameY="0" frameWidth="348" frameHeight="483"/>
+	<SubTexture name="Fleet right0011" x="3986" y="0" width="342" height="483" frameX="0" frameY="0" frameWidth="348" frameHeight="483"/>
+	<SubTexture name="Fleet right0012" x="3986" y="0" width="342" height="483" frameX="0" frameY="0" frameWidth="348" frameHeight="483"/>
+	<SubTexture name="Fleet right0013" x="3986" y="0" width="342" height="483" frameX="0" frameY="0" frameWidth="348" frameHeight="483"/>
+	<SubTexture name="Fleet up0000" x="4328" y="0" width="356" height="501" frameX="-5" frameY="0" frameWidth="361" frameHeight="501"/>
+	<SubTexture name="Fleet up0001" x="4328" y="0" width="356" height="501" frameX="-5" frameY="0" frameWidth="361" frameHeight="501"/>
+	<SubTexture name="Fleet up0002" x="4684" y="0" width="351" height="496" frameX="-5" frameY="-5" frameWidth="361" frameHeight="501"/>
+	<SubTexture name="Fleet up0003" x="4684" y="0" width="351" height="496" frameX="-5" frameY="-5" frameWidth="361" frameHeight="501"/>
+	<SubTexture name="Fleet up0004" x="5035" y="0" width="346" height="489" frameX="-2" frameY="-12" frameWidth="361" frameHeight="501"/>
+	<SubTexture name="Fleet up0005" x="5035" y="0" width="346" height="489" frameX="-2" frameY="-12" frameWidth="361" frameHeight="501"/>
+	<SubTexture name="Fleet up0006" x="5381" y="0" width="345" height="486" frameX="0" frameY="-15" frameWidth="361" frameHeight="501"/>
+	<SubTexture name="Fleet up0007" x="5381" y="0" width="345" height="486" frameX="0" frameY="-15" frameWidth="361" frameHeight="501"/>
+	<SubTexture name="Fleet up0008" x="5381" y="0" width="345" height="486" frameX="0" frameY="-15" frameWidth="361" frameHeight="501"/>
+	<SubTexture name="Fleet up0009" x="5381" y="0" width="345" height="486" frameX="0" frameY="-15" frameWidth="361" frameHeight="501"/>
+	<SubTexture name="Fleet up0010" x="5381" y="0" width="345" height="486" frameX="0" frameY="-15" frameWidth="361" frameHeight="501"/>
+	<SubTexture name="Fleet up0011" x="5381" y="0" width="345" height="486" frameX="0" frameY="-15" frameWidth="361" frameHeight="501"/>
+	<SubTexture name="Fleet up0012" x="5381" y="0" width="345" height="486" frameX="0" frameY="-15" frameWidth="361" frameHeight="501"/>
+	<SubTexture name="Fleet up0013" x="5381" y="0" width="345" height="486" frameX="0" frameY="-15" frameWidth="361" frameHeight="501"/>
+	<SubTexture name="MISS Fleet down0000" x="5726" y="0" width="327" height="455" frameX="-4" frameY="0" frameWidth="334" frameHeight="455"/>
+	<SubTexture name="MISS Fleet down0001" x="6053" y="0" width="327" height="455" frameX="-4" frameY="0" frameWidth="334" frameHeight="455"/>
+	<SubTexture name="MISS Fleet down0002" x="6053" y="0" width="327" height="455" frameX="-4" frameY="0" frameWidth="334" frameHeight="455"/>
+	<SubTexture name="MISS Fleet down0003" x="6380" y="0" width="334" height="442" frameX="0" frameY="-13" frameWidth="334" frameHeight="455"/>
+	<SubTexture name="MISS Fleet down0004" x="6380" y="0" width="334" height="442" frameX="0" frameY="-13" frameWidth="334" frameHeight="455"/>
+	<SubTexture name="MISS Fleet down0005" x="6714" y="0" width="334" height="442" frameX="0" frameY="-13" frameWidth="334" frameHeight="455"/>
+	<SubTexture name="MISS Fleet down0006" x="6714" y="0" width="334" height="442" frameX="0" frameY="-13" frameWidth="334" frameHeight="455"/>
+	<SubTexture name="MISS Fleet down0007" x="6380" y="0" width="334" height="442" frameX="0" frameY="-13" frameWidth="334" frameHeight="455"/>
+	<SubTexture name="MISS Fleet down0008" x="6380" y="0" width="334" height="442" frameX="0" frameY="-13" frameWidth="334" frameHeight="455"/>
+	<SubTexture name="MISS Fleet down0009" x="6714" y="0" width="334" height="442" frameX="0" frameY="-13" frameWidth="334" frameHeight="455"/>
+	<SubTexture name="MISS Fleet down0010" x="6714" y="0" width="334" height="442" frameX="0" frameY="-13" frameWidth="334" frameHeight="455"/>
+	<SubTexture name="MISS Fleet down0011" x="6380" y="0" width="334" height="442" frameX="0" frameY="-13" frameWidth="334" frameHeight="455"/>
+	<SubTexture name="MISS Fleet down0012" x="6380" y="0" width="334" height="442" frameX="0" frameY="-13" frameWidth="334" frameHeight="455"/>
+	<SubTexture name="MISS Fleet down0013" x="6714" y="0" width="334" height="442" frameX="0" frameY="-13" frameWidth="334" frameHeight="455"/>
+	<SubTexture name="MISS Fleet left0000" x="7048" y="0" width="327" height="502" frameX="-11" frameY="0" frameWidth="340" frameHeight="505"/>
+	<SubTexture name="MISS Fleet left0001" x="7375" y="0" width="327" height="504" frameX="-13" frameY="-1" frameWidth="340" frameHeight="505"/>
+	<SubTexture name="MISS Fleet left0002" x="7375" y="0" width="327" height="504" frameX="-13" frameY="-1" frameWidth="340" frameHeight="505"/>
+	<SubTexture name="MISS Fleet left0003" x="7702" y="0" width="338" height="504" frameX="0" frameY="-1" frameWidth="340" frameHeight="505"/>
+	<SubTexture name="MISS Fleet left0004" x="7702" y="0" width="338" height="504" frameX="0" frameY="-1" frameWidth="340" frameHeight="505"/>
+	<SubTexture name="MISS Fleet left0005" x="0" y="504" width="338" height="504" frameX="0" frameY="-1" frameWidth="340" frameHeight="505"/>
+	<SubTexture name="MISS Fleet left0006" x="0" y="504" width="338" height="504" frameX="0" frameY="-1" frameWidth="340" frameHeight="505"/>
+	<SubTexture name="MISS Fleet left0007" x="7702" y="0" width="338" height="504" frameX="0" frameY="-1" frameWidth="340" frameHeight="505"/>
+	<SubTexture name="MISS Fleet left0008" x="7702" y="0" width="338" height="504" frameX="0" frameY="-1" frameWidth="340" frameHeight="505"/>
+	<SubTexture name="MISS Fleet left0009" x="0" y="504" width="338" height="504" frameX="0" frameY="-1" frameWidth="340" frameHeight="505"/>
+	<SubTexture name="MISS Fleet left0010" x="0" y="504" width="338" height="504" frameX="0" frameY="-1" frameWidth="340" frameHeight="505"/>
+	<SubTexture name="MISS Fleet left0011" x="7702" y="0" width="338" height="504" frameX="0" frameY="-1" frameWidth="340" frameHeight="505"/>
+	<SubTexture name="MISS Fleet left0012" x="7702" y="0" width="338" height="504" frameX="0" frameY="-1" frameWidth="340" frameHeight="505"/>
+	<SubTexture name="MISS Fleet left0013" x="0" y="504" width="338" height="504" frameX="0" frameY="-1" frameWidth="340" frameHeight="505"/>
+	<SubTexture name="MISS Fleet right0000" x="338" y="504" width="347" height="481" frameX="-3" frameY="0" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="MISS Fleet right0001" x="685" y="504" width="347" height="481" frameX="-3" frameY="0" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="MISS Fleet right0002" x="685" y="504" width="347" height="481" frameX="-3" frameY="0" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="MISS Fleet right0003" x="1032" y="504" width="358" height="481" frameX="0" frameY="-1" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="MISS Fleet right0004" x="1032" y="504" width="358" height="481" frameX="0" frameY="-1" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="MISS Fleet right0005" x="1390" y="504" width="358" height="481" frameX="0" frameY="-1" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="MISS Fleet right0006" x="1390" y="504" width="358" height="481" frameX="0" frameY="-1" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="MISS Fleet right0007" x="1032" y="504" width="358" height="481" frameX="0" frameY="-1" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="MISS Fleet right0008" x="1032" y="504" width="358" height="481" frameX="0" frameY="-1" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="MISS Fleet right0009" x="1390" y="504" width="358" height="481" frameX="0" frameY="-1" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="MISS Fleet right0010" x="1390" y="504" width="358" height="481" frameX="0" frameY="-1" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="MISS Fleet right0011" x="1032" y="504" width="358" height="481" frameX="0" frameY="-1" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="MISS Fleet right0012" x="1032" y="504" width="358" height="481" frameX="0" frameY="-1" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="MISS Fleet right0013" x="1390" y="504" width="358" height="481" frameX="0" frameY="-1" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="MISS Fleet up0000" x="1748" y="504" width="356" height="501" frameX="0" frameY="-10" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="MISS Fleet up0001" x="2104" y="504" width="356" height="501" frameX="0" frameY="-11" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="MISS Fleet up0002" x="2104" y="504" width="356" height="501" frameX="0" frameY="-11" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="MISS Fleet up0003" x="2460" y="504" width="339" height="511" frameX="-8" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="MISS Fleet up0004" x="2460" y="504" width="339" height="511" frameX="-8" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="MISS Fleet up0005" x="2799" y="504" width="339" height="511" frameX="-8" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="MISS Fleet up0006" x="2799" y="504" width="339" height="511" frameX="-8" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="MISS Fleet up0007" x="2460" y="504" width="339" height="511" frameX="-8" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="MISS Fleet up0008" x="2460" y="504" width="339" height="511" frameX="-8" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="MISS Fleet up0009" x="2799" y="504" width="339" height="511" frameX="-8" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="MISS Fleet up0010" x="2799" y="504" width="339" height="511" frameX="-8" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="MISS Fleet up0011" x="2460" y="504" width="339" height="511" frameX="-8" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="MISS Fleet up0012" x="2460" y="504" width="339" height="511" frameX="-8" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="MISS Fleet up0013" x="2799" y="504" width="339" height="511" frameX="-8" frameY="0" frameWidth="356" frameHeight="512"/>
+</TextureAtlas>

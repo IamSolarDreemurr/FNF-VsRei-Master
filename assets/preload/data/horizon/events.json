@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "woods",
+		"player1": "bf_rei",
+		"player2": "rei",
+		"player3": null,
+		"events": [
+			[
+				52545.6389452333,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				154280.93306288,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_rei",
+		"bpm": 145,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Horizon"
+	}
+}

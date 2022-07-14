@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bgbop2.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG Group Bop 20000" x="0" y="0" width="638" height="561" frameX="0" frameY="-22" frameWidth="638" frameHeight="583"/>
+	<SubTexture name="BG Group Bop 20001" x="0" y="0" width="638" height="561" frameX="0" frameY="-22" frameWidth="638" frameHeight="583"/>
+	<SubTexture name="BG Group Bop 20002" x="638" y="0" width="626" height="572" frameX="-8" frameY="-11" frameWidth="638" frameHeight="583"/>
+	<SubTexture name="BG Group Bop 20003" x="638" y="0" width="626" height="572" frameX="-8" frameY="-11" frameWidth="638" frameHeight="583"/>
+	<SubTexture name="BG Group Bop 20004" x="1264" y="0" width="617" height="583" frameX="-13" frameY="0" frameWidth="638" frameHeight="583"/>
+	<SubTexture name="BG Group Bop 20005" x="1264" y="0" width="617" height="583" frameX="-13" frameY="0" frameWidth="638" frameHeight="583"/>
+	<SubTexture name="BG Group Bop 20006" x="1264" y="0" width="617" height="583" frameX="-13" frameY="0" frameWidth="638" frameHeight="583"/>
+	<SubTexture name="BG Group Bop 20007" x="1264" y="0" width="617" height="583" frameX="-13" frameY="0" frameWidth="638" frameHeight="583"/>
+	<SubTexture name="BG Group Bop 20008" x="1264" y="0" width="617" height="583" frameX="-13" frameY="0" frameWidth="638" frameHeight="583"/>
+	<SubTexture name="BG Group Bop 20009" x="1264" y="0" width="617" height="583" frameX="-13" frameY="0" frameWidth="638" frameHeight="583"/>
+	<SubTexture name="BG Group Bop 20010" x="1264" y="0" width="617" height="583" frameX="-13" frameY="0" frameWidth="638" frameHeight="583"/>
+	<SubTexture name="BG Group Bop 20011" x="1264" y="0" width="617" height="583" frameX="-13" frameY="0" frameWidth="638" frameHeight="583"/>
+	<SubTexture name="BG Group Bop 20012" x="1264" y="0" width="617" height="583" frameX="-13" frameY="0" frameWidth="638" frameHeight="583"/>
+	<SubTexture name="BG Group Bop 20013" x="1264" y="0" width="617" height="583" frameX="-13" frameY="0" frameWidth="638" frameHeight="583"/>
+</TextureAtlas>

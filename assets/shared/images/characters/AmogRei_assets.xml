@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AmogRei_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AmogRei Down0000" x="0" y="0" width="535" height="312" frameX="0" frameY="-53" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Down0001" x="0" y="0" width="535" height="312" frameX="0" frameY="-53" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Down0002" x="535" y="0" width="491" height="332" frameX="-22" frameY="-34" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Down0003" x="535" y="0" width="491" height="332" frameX="-22" frameY="-34" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Down0004" x="1026" y="0" width="457" height="349" frameX="-39" frameY="-18" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Down0005" x="1026" y="0" width="457" height="349" frameX="-39" frameY="-18" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Down0006" x="1483" y="0" width="435" height="369" frameX="-50" frameY="0" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Down0007" x="1483" y="0" width="435" height="369" frameX="-50" frameY="0" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Down0008" x="1483" y="0" width="435" height="369" frameX="-50" frameY="0" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Down0009" x="1483" y="0" width="435" height="369" frameX="-50" frameY="0" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Down0010" x="1483" y="0" width="435" height="369" frameX="-50" frameY="0" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Down0011" x="1483" y="0" width="435" height="369" frameX="-50" frameY="0" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Down0012" x="1483" y="0" width="435" height="369" frameX="-50" frameY="0" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Down0013" x="1483" y="0" width="435" height="369" frameX="-50" frameY="0" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Down0014" x="1483" y="0" width="435" height="369" frameX="-50" frameY="0" frameWidth="535" frameHeight="369"/>
+	<SubTexture name="AmogRei Idle0000" x="1918" y="0" width="617" height="389" frameX="0" frameY="-55" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Idle0001" x="1918" y="0" width="617" height="389" frameX="0" frameY="-55" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Idle0002" x="2535" y="0" width="606" height="410" frameX="-6" frameY="-35" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Idle0003" x="2535" y="0" width="606" height="410" frameX="-6" frameY="-35" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Idle0004" x="3141" y="0" width="559" height="447" frameX="-29" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Idle0005" x="3141" y="0" width="559" height="447" frameX="-29" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Idle0006" x="3141" y="0" width="559" height="447" frameX="-29" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Idle0007" x="3141" y="0" width="559" height="447" frameX="-29" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Idle0008" x="3141" y="0" width="559" height="447" frameX="-29" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Idle0009" x="3141" y="0" width="559" height="447" frameX="-29" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Idle0010" x="3141" y="0" width="559" height="447" frameX="-29" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Idle0011" x="3141" y="0" width="559" height="447" frameX="-29" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Idle0012" x="3141" y="0" width="559" height="447" frameX="-29" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Idle0013" x="3141" y="0" width="559" height="447" frameX="-29" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Left0000" x="0" y="447" width="695" height="447"/>
+	<SubTexture name="AmogRei Left0001" x="0" y="447" width="695" height="447"/>
+	<SubTexture name="AmogRei Left0002" x="695" y="447" width="660" height="447" frameX="-33" frameY="0" frameWidth="695" frameHeight="447"/>
+	<SubTexture name="AmogRei Left0003" x="695" y="447" width="660" height="447" frameX="-33" frameY="0" frameWidth="695" frameHeight="447"/>
+	<SubTexture name="AmogRei Left0004" x="1355" y="447" width="590" height="447" frameX="-99" frameY="0" frameWidth="695" frameHeight="447"/>
+	<SubTexture name="AmogRei Left0005" x="1355" y="447" width="590" height="447" frameX="-99" frameY="0" frameWidth="695" frameHeight="447"/>
+	<SubTexture name="AmogRei Left0006" x="3141" y="0" width="559" height="447" frameX="-128" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Left0007" x="3141" y="0" width="559" height="447" frameX="-128" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Left0008" x="3141" y="0" width="559" height="447" frameX="-128" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Left0009" x="3141" y="0" width="559" height="447" frameX="-128" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Left0010" x="3141" y="0" width="559" height="447" frameX="-128" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Left0011" x="3141" y="0" width="559" height="447" frameX="-128" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Left0012" x="3141" y="0" width="559" height="447" frameX="-128" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Left0013" x="3141" y="0" width="559" height="447" frameX="-128" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Left0014" x="3141" y="0" width="559" height="447" frameX="-128" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Right0000" x="1945" y="447" width="693" height="447"/>
+	<SubTexture name="AmogRei Right0001" x="1945" y="447" width="693" height="447"/>
+	<SubTexture name="AmogRei Right0002" x="2638" y="447" width="639" height="447" frameX="-3" frameY="0" frameWidth="693" frameHeight="447"/>
+	<SubTexture name="AmogRei Right0003" x="2638" y="447" width="639" height="447" frameX="-3" frameY="0" frameWidth="693" frameHeight="447"/>
+	<SubTexture name="AmogRei Right0004" x="3277" y="447" width="574" height="447" frameX="-6" frameY="0" frameWidth="693" frameHeight="447"/>
+	<SubTexture name="AmogRei Right0005" x="3277" y="447" width="574" height="447" frameX="-6" frameY="0" frameWidth="693" frameHeight="447"/>
+	<SubTexture name="AmogRei Right0006" x="3141" y="0" width="559" height="447" frameX="-6" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Right0007" x="3141" y="0" width="559" height="447" frameX="-6" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Right0008" x="3141" y="0" width="559" height="447" frameX="-6" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Right0009" x="3141" y="0" width="559" height="447" frameX="-6" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Right0010" x="3141" y="0" width="559" height="447" frameX="-6" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Right0011" x="3141" y="0" width="559" height="447" frameX="-6" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Right0012" x="3141" y="0" width="559" height="447" frameX="-6" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Right0013" x="3141" y="0" width="559" height="447" frameX="-6" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Right0014" x="3141" y="0" width="559" height="447" frameX="-6" frameY="0" frameWidth="617" frameHeight="447"/>
+	<SubTexture name="AmogRei Up0000" x="0" y="894" width="499" height="556" frameX="-39" frameY="0" frameWidth="578" frameHeight="556"/>
+	<SubTexture name="AmogRei Up0001" x="0" y="894" width="499" height="556" frameX="-39" frameY="0" frameWidth="578" frameHeight="556"/>
+	<SubTexture name="AmogRei Up0002" x="499" y="894" width="534" height="525" frameX="-22" frameY="-30" frameWidth="578" frameHeight="556"/>
+	<SubTexture name="AmogRei Up0003" x="499" y="894" width="534" height="525" frameX="-22" frameY="-30" frameWidth="578" frameHeight="556"/>
+	<SubTexture name="AmogRei Up0004" x="1033" y="894" width="559" height="480" frameX="-9" frameY="-74" frameWidth="578" frameHeight="556"/>
+	<SubTexture name="AmogRei Up0005" x="1033" y="894" width="559" height="480" frameX="-9" frameY="-74" frameWidth="578" frameHeight="556"/>
+	<SubTexture name="AmogRei Up0006" x="1592" y="894" width="578" height="447" frameX="0" frameY="-105" frameWidth="578" frameHeight="556"/>
+	<SubTexture name="AmogRei Up0007" x="1592" y="894" width="578" height="447" frameX="0" frameY="-105" frameWidth="578" frameHeight="556"/>
+	<SubTexture name="AmogRei Up0008" x="1592" y="894" width="578" height="447" frameX="0" frameY="-105" frameWidth="578" frameHeight="556"/>
+	<SubTexture name="AmogRei Up0009" x="1592" y="894" width="578" height="447" frameX="0" frameY="-105" frameWidth="578" frameHeight="556"/>
+	<SubTexture name="AmogRei Up0010" x="1592" y="894" width="578" height="447" frameX="0" frameY="-105" frameWidth="578" frameHeight="556"/>
+	<SubTexture name="AmogRei Up0011" x="1592" y="894" width="578" height="447" frameX="0" frameY="-105" frameWidth="578" frameHeight="556"/>
+	<SubTexture name="AmogRei Up0012" x="1592" y="894" width="578" height="447" frameX="0" frameY="-105" frameWidth="578" frameHeight="556"/>
+	<SubTexture name="AmogRei Up0013" x="1592" y="894" width="578" height="447" frameX="0" frameY="-105" frameWidth="578" frameHeight="556"/>
+	<SubTexture name="AmogRei Up0014" x="1592" y="894" width="578" height="447" frameX="0" frameY="-105" frameWidth="578" frameHeight="556"/>
+</TextureAtlas>

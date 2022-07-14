@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "fleet",
+		"player1": "rei_phantasm",
+		"player2": "rei_phantasm",
+		"player3": null,
+		"events": [
+			[
+				168093.75,
+				[
+					[
+						"Change Character",
+						"BF",
+						"rei_phantasm2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "phantasm"
+	}
+}

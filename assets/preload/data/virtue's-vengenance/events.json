@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "woods",
+		"player1": "bf_rei",
+		"player2": "rei",
+		"player3": null,
+		"events": [
+			[
+				13846.1538461538,
+				[
+					[
+						"Add Camera Zoom",
+						"0.100",
+						""
+					]
+				]
+			],
+			[
+				14076.9230769231,
+				[
+					[
+						"Add Camera Zoom",
+						"0.100",
+						""
+					]
+				]
+			],
+			[
+				14307.6923076923,
+				[
+					[
+						"Add Camera Zoom",
+						"0.100",
+						""
+					]
+				]
+			],
+			[
+				14538.4615384615,
+				[
+					[
+						"Add Camera Zoom",
+						"0.100",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf_rei",
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "virtues vengenance"
+	}
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-8,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Let's go",
+			"indices": [],
+			"name": "Rei Lets go"
+		},
+		{
+			"offsets": [
+				49,
+				3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Rei Sing Right"
+		},
+		{
+			"offsets": [
+				-17,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Rei Sing Left"
+		},
+		{
+			"offsets": [
+				40,
+				-175
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Rei Sing Down"
+		},
+		{
+			"offsets": [
+				19,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Rei Sing Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Rei Idle"
+		},
+		{
+			"offsets": [
+				280,
+				298
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "Rei Attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rei_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rei",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		179,
+		114
+	],
+	"camera_position": [
+		0,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
